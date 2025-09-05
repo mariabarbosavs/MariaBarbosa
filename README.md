@@ -1,8 +1,6 @@
 # Olá! Eu sou a Maria 
--🧚‍♀️Tenho 18 anos e pretendo fazer mais cursos relacionados a tecnologia pois gostei muito da área;
+🎓 Estudante de Gestão da Tecnologia da Informação
 
--📚 Comecei um curso superior de Gestão de Tecnologia da Informação esse ano, logo após meu ensino médio;
+💻 Interessada em Suporte Técnico, Help Desk, Infraestrutura de TI, Lógica de Programação e Análise de Dados
 
--💻Sou apaixonada por biotecnologia e pretendo trabalhar com Banco de Dados na área da saúde;
-
--🌎Amo aprender coisas novas e ter dominio no que faço!!
+📚 Atualmente em fase de aprendizado contínuo, sempre buscando novos desafios e oportunidades para crescer na área de tecnologia.
