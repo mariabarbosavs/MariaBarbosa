@@ -1,4 +1,4 @@
-# Olá, eu sou Maria Cláudia Barbosa 👋
+# Olá, eu sou Maria Cláudia Barbosa 
 
 Sou estudante de Gestão da Tecnologia da Informação e estou direcionando minha formação para a área de Análise de Dados.
 
