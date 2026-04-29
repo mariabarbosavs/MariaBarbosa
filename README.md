@@ -14,11 +14,11 @@ Atualmente estudo e pratico:
 
 Tenho construído meu portfólio com projetos práticos voltados à limpeza, organização, análise e visualização de dados.
 
-## 🎯 Objetivo atual
+## Objetivo atual
 
 Conquistar minha primeira oportunidade como Analista de Dados Júnior, desenvolvendo projetos que transformem dados em informações úteis para tomada de decisão.
 
-## 🛠️ Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 - Python
 - SQL
@@ -28,11 +28,13 @@ Conquistar minha primeira oportunidade como Analista de Dados Júnior, desenvolv
 - Apache Hop
 - GitHub
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
 Em breve, adicionarei aqui meus principais projetos de análise de dados.
 
-## 📫 Contato
+## Contato
 
-- LinkedIn: coloque aqui seu link
-- E-mail: coloque aqui seu e-mail
+- LinkedIn: www.linkedin.com/in/mariabarbosavs
+- E-mail: mariaclaudiacb77@gmail.com
+
+
