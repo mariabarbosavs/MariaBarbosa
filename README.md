@@ -1,4 +1,38 @@
-# Olá! Eu sou a Maria 
-|🎓 Estudante de Gestão da Tecnologia da Informação
-|💻 Interessada em Redes, Desenvolvimento de Sistemas, Análise de Dados e uma paixãozinha por Biotecnologia
-|📚 Atualmente em fase de aprendizado contínuo, sempre buscando novos desafios e oportunidades para crescer na área de tecnologia.
+# Olá, eu sou Maria Cláudia Barbosa 👋
+
+Sou estudante de Gestão da Tecnologia da Informação e estou direcionando minha formação para a área de Análise de Dados.
+
+Atualmente estudo e pratico:
+
+- SQL
+- Python
+- Excel
+- Power BI
+- Pandas
+- Apache Hop
+- Git e GitHub
+
+Tenho construído meu portfólio com projetos práticos voltados à limpeza, organização, análise e visualização de dados.
+
+## 🎯 Objetivo atual
+
+Conquistar minha primeira oportunidade como Analista de Dados Júnior, desenvolvendo projetos que transformem dados em informações úteis para tomada de decisão.
+
+## 🛠️ Tecnologias e ferramentas
+
+- Python
+- SQL
+- Excel
+- Power BI
+- Pandas
+- Apache Hop
+- GitHub
+
+## 📌 Projetos em destaque
+
+Em breve, adicionarei aqui meus principais projetos de análise de dados.
+
+## 📫 Contato
+
+- LinkedIn: coloque aqui seu link
+- E-mail: coloque aqui seu e-mail
